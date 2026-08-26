@@ -1,0 +1,10 @@
+Line 1 - Important data
+Line 2 - Student information
+Line 3 - Linux case study
+Line 4 - Backup practice
+Line 5 - File management
+Line 6 - Operating systems
+Line 7 - CSE practical
+Line 8 - Data protection
+Line 9 - Restore testing
+Line 10 - Task completed
