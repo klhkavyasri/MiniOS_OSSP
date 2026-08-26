@@ -1,0 +1,47 @@
+TASK 13 FLOW DIAGRAM
+
+        START
+          |
+          v
+   Display "myshell>"
+          |
+          v
+      Read input
+          |
+          v
+     Remove newline
+          |
+          v
+     Is input "exit"?
+       /        \
+     YES         NO
+      |           |
+      v           v
+  Print exit   processCommand()
+      |           |
+      |           v
+      |      Is "hello"?
+      |       /       \
+      |     YES       NO
+      |      |         |
+      |      v         v
+      |   Greeting   Is "help"?
+      |               /      \
+      |             YES      NO
+      |              |        |
+      |              v        v
+      |         Show help   Is empty?
+      |                       /    \
+      |                     YES    NO
+      |                      |      |
+      |                      |      v
+      |                      |   Unknown
+      |                      |   command
+      |                      |      |
+      |                      v      v
+      |                    Return to loop
+      |                         |
+      +-------------------------+
+                |
+                v
+               END

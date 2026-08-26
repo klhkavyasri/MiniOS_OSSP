@@ -1,0 +1,20 @@
+Difference Between Task 12 and Task 13
+
+Task 12:
+1. Creates the main interactive shell loop.
+2. Displays the shell prompt.
+3. Reads user input using fgets().
+4. Removes the newline character.
+5. Checks for the exit command.
+6. Displays the entered command.
+
+Task 13:
+1. Contains all the basic features of Task 12.
+2. Adds a processCommand() function.
+3. Recognizes the hello command.
+4. Recognizes the help command.
+5. Handles empty input.
+6. Displays an error for unknown commands.
+7. Separates command processing from the main loop.
+
+Therefore, Task 13 improves Task 12 by adding command processing functionality.
