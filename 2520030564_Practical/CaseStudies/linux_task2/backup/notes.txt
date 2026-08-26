@@ -1,0 +1,6 @@
+Linux File Management Notes
+1. cp is used to copy files.
+2. mv is used to move or rename files.
+3. mkdir creates directories.
+4. ls -R displays directories recursively.
+5. Backup copies help protect important files.

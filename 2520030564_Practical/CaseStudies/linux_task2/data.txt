@@ -1,0 +1,5 @@
+Backup Data Record
+File Name: data.txt
+Purpose: Demonstrate copying and renaming files.
+Backup Name: data_backup.txt
+Status: Successfully copied to backup directory.

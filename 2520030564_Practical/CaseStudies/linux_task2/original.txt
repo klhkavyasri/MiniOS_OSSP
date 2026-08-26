@@ -1,0 +1,4 @@
+Linux File Management Case Study
+This file demonstrates copying, moving, and renaming files.
+The original source file was created inside linux_task2.
+It was copied to the backup directory before being renamed.
